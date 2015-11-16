@@ -1,1 +1,2 @@
 # Research-Project-on-neighborhood-Corpus
+In This Research Project I Have Extracted the KeyPhrases of the Document based upon the Important words that are present in the neighborhood corpus. In doing so, I have intially constructed the neighborhood corpus based on the cosine similarity between the source document and the corpus and i have observed that results are more accurate than extracting the keywords based on single document.
